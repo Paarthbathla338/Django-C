@@ -22,3 +22,5 @@
 # It is a single definative source of data. You can write functions here. and derive utility from your Models.
 # In a Model, each model has a definative class field in the database. It is a Subclass of the original databse whcih is working in it
 # It has various field instances to tell Django Which type of datatype each field holds 
+
+# MakeMigrations in Django tells that there have been some changes made in the model. You now need to store them as a migration.
