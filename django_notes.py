@@ -25,3 +25,5 @@
 # It has various field instances to tell Django Which type of datatype each field holds 
 
 # MakeMigrations in Django tells that there have been some changes made in the model. You now need to store them as a migration.
+
+# The render() function takes the request object as its first argument, a template name as its second argument and a dictionary as its optional third argument
