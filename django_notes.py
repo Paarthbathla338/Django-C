@@ -14,3 +14,11 @@
 # 1. Route: The Url Route on which the response will be rendered. 
 # 2. Views: The View Function it is a part of. Eg views.index.
 # 3. name: The Name you want to give it
+
+# The Migrate commands looks at the installed apps and creates database tables as required
+# Database Settings in {Sitename}/settings.py
+
+# What is a Model in Django?
+# It is a single definative source of data. You can write functions here. and derive utility from your Models.
+# In a Model, each model has a definative class field in the database. It is a Subclass of the original databse whcih is working in it
+# It has various field instances to tell Django Which type of datatype each field holds 
